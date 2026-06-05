@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Folder Name="/Solution Items/SQL/">
+    <File Path="Student Profile Management System/database.sql" />
+  </Folder>
+  <Project Path="Student Profile Management System/Student Profile Management System.csproj" />
+</Solution>
